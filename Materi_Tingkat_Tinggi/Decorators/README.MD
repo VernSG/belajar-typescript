@@ -1,0 +1,2 @@
+# Penjelasan: 
+Decorator @log diterapkan pada method square dalam kelas Calculator. Saat method square dipanggil, decorator log akan mencetak pesan ke konsol, menunjukkan penggunaan decorators untuk memodifikasi atau memperluas perilaku method atau kelas dalam TypeScript.

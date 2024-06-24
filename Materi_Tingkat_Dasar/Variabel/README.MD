@@ -1,0 +1,2 @@
+# Penjelasan:
+File ini menunjukkan penggunaan variabel dengan deklarasi tipe data di TypeScript. Variabel name adalah string, age adalah number, dan isAdmin adalah boolean. TypeScript memungkinkan kita untuk secara eksplisit menentukan tipe data untuk variabel, memberikan keamanan dan kejelasan pada saat pengembangan.

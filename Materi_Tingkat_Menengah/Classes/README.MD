@@ -1,0 +1,2 @@
+# Penjelasan:
+Kelas Person adalah contoh dari fitur OOP (Object-Oriented Programming) dalam TypeScript. Ini memiliki properti privat name dan age, serta method greet yang mencetak pesan sapaan. Kelas ini menunjukkan bagaimana TypeScript mendukung pembuatan kelas dengan properti dan metode yang dapat diakses secara aman.

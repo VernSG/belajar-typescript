@@ -1,0 +1,2 @@
+# Penjelasan:
+Di sini, kita mendefinisikan fungsi add yang mengambil dua parameter bertipe number dan mengembalikan hasil penjumlahan keduanya. Penggunaan tipe data untuk parameter dan nilai kembalian ini menunjukkan salah satu keunggulan TypeScript dalam membantu mencegah kesalahan tipe selama pengembangan.

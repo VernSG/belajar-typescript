@@ -1,0 +1,2 @@
+# Penjelasan:
+Fungsi identity menggunakan generic <T> untuk memungkinkan jenis argumen yang fleksibel. Saat dipanggil, kita dapat menentukan jenis yang spesifik untuk T (misalnya string atau number). Ini adalah contoh dari fitur generics dalam TypeScript yang memungkinkan penulisan kode yang lebih umum dan dapat digunakan kembali.

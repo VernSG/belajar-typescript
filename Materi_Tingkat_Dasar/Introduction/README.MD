@@ -1,0 +1,2 @@
+# Penjelasan: 
+Ini adalah file sederhana yang hanya mencetak pesan "Hello, TypeScript!" ke konsol. TypeScript adalah superset dari JavaScript yang menambahkan tipe statis opsional dan fitur-fitur modern lainnya, membantu dalam pengembangan aplikasi JavaScript yang lebih besar dan lebih terstruktur.
