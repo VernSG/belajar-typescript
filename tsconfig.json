@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "experimentalDecorators": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": ["*", "Materi_Tingkat_Menengah/*"],
+      "interface/*": ["Materi_Tingkat_Menengah/interface/*"]
+    }
+  },
+  "include": [
+    "classes_and_interfaces.ts",
+    "Materi_Tingkat_Menengah/**/*.ts"
+  ]
+}
