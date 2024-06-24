@@ -16,23 +16,14 @@ Setiap direktori memiliki berbagai file `.ts` yang berfungsi sebagai contoh kode
 
 Untuk menjalankan contoh kode TypeScript dari repositori ini, ikuti langkah-langkah berikut:
 
-1. **Persiapkan Lingkungan Pengembangan:**
-   - Pastikan Anda memiliki Node.js dan TypeScript terinstal di sistem Anda. Jika belum, Anda dapat mengunduh dan menginstalnya dari situs web resmi Node.js dan TypeScript.
+1. **Menggunakan Node.js:**
+   - Jika Anda menggunakan Node.js, pastikan untuk mengonversi kode TypeScript menjadi JavaScript terlebih dahulu dengan perintah `tsc`.
+   - Kemudian, jalankan file JavaScript yang dihasilkan dengan perintah `node nama_file.js` sebelum itu lakukan cd ke directory yang ingin di jalankan.
 
-2. **Navigasi ke Direktori yang Dibutuhkan:**
-   - Buka VSCode atau terminal Anda dan navigasikan ke direktori tempat Anda menyimpan repositori ini.
-
-3. **Jalankan Kode TypeScript:**
-   - Buka file `.ts` yang ingin Anda jalankan (misalnya `basic/01_introduction.ts`) di VSCode.
-
-4. **Menggunakan Node.js:**
-   - Jika Anda menggunakan Node.js, pastikan untuk mengonversi kode TypeScript menjadi JavaScript terlebih dahulu dengan perintah `tsc nama_file.ts`.
-   - Kemudian, jalankan file JavaScript yang dihasilkan dengan perintah `node nama_file.js`.
-
-5. **Menggunakan Code Runner:**
+2. **Menggunakan Code Runner:**
    - Jika Anda menggunakan ekstensi Code Runner di VSCode, Anda dapat menjalankan kode TypeScript langsung dari editor dengan menekan `Ctrl + Alt + N` (di Windows/Linux) atau `Cmd + Option + N` (di macOS).
 
-6. **Lihat Output:**
+3. **Lihat Output:**
    - Setelah menjalankan kode, output akan ditampilkan di panel output di VSCode atau di terminal Anda.
 
 Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan dan memahami hasil dari setiap contoh kode TypeScript yang disediakan dalam repositori ini.
